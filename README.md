@@ -3,9 +3,9 @@
 
 ## Get Started.
 
-1. 在 https://github.com/settings/tokens 或 https://github.com/settings/tokens/new 获取您的个人TOKEN。
+1. 在 https://github.com/settings/tokens 或 https://github.com/settings/tokens/new 获取您的```个人Token（PAT）```。
 2. 如下图，在项目目录下使用 ```dotnet run ```命令执行构建并启动应用程序。 
-3. 输入个人TOKAN后回车。软件将列出您作为owner的所有仓库。
+3. 输入```PAT```后回车。软件将列出您作为owner的所有仓库。
 4. 输入仓库号码，并需要确认，以删除指定仓库。
 
 ```ssh
