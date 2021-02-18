@@ -12,7 +12,6 @@ namespace Walle.GitHubCleaner
         init:
             try
             {
-
                 Console.WriteLine("Put in your PAT:");
                 var pat = Console.ReadLine();
                 var conn = new Connection(new ProductHeaderValue("Walle.GitHubCleaner", "v0.1"));
