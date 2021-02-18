@@ -1,4 +1,4 @@
-# Walle.GitHubCleaner
+# Walle.Tools.GitHubRepositoryCleaner
 用于删除未使用或打算放弃使用的仓库。
 
 ## Get Started.
