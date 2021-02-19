@@ -1,4 +1,8 @@
 # Walle.Tools.GitHubRepositoryCleaner
+
+[![badge](https://github.com/walle-work/
+Walle.Tools.GitHubRepositoryCleaner/workflows/dotnet/badge.svg)](https://github.com/walle-work/Walle.Components.MongoDB/actions/)
+
 用于删除未使用或打算放弃使用的仓库。
 
 ## Get Started.
